@@ -4,8 +4,6 @@
 
 I'm an Information Technology graduate from the **Polytechnic University of the Philippines**, passionate about creating clean, responsive, and user-friendly web experiences.
 
-I enjoy turning ideas into functional interfaces through frontend development and thoughtful design. I love exploring how layouts, colors, and interactions come together to create meaningful digital experiences.
-
 Currently focused on improving my frontend development skills, exploring React, and building web applications that put users first.
 
 ---
