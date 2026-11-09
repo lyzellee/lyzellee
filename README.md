@@ -76,9 +76,9 @@ Currently focused on improving my frontend development skills, exploring React, 
 
 ## 🤝 Let's Connect!
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/elyssa-belle-reambonanza/)
 
 🌐 **Portfolio:** [Explore my work](YOUR_PORTFOLIO_URL)
 
-📧 **Email:** [Contact me](mailto:YOUR_EMAIL)
+📧 **Email:** [Contact me](mailto:lyssabeller@gmail.com)
 
